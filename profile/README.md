@@ -1,4 +1,4 @@
-![knobs](versioduo/.github/blob/main/profile/knobs.jpg?raw=true)
+![knobs](knobs.jpg?raw=true)
 
 ### [versioduo.com](https://versioduo.com)
 
